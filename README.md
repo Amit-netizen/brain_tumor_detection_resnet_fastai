@@ -16,9 +16,6 @@ Includes benchmarking, optimization, and evaluation of deep learning models.
 | ResNet-34     | 94.05%   | 98.21%    | 96.00%   |
 | ResNeXt-101   | 95.04%   | 97.30%    | 97.51%   |
 
-## 🧠 Sample Prediction Visualization
-
-![Tumor Prediction Sample](https://via.placeholder.com/600x300.png?text=Prediction+Sample)
 
 ---
 
